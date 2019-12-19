@@ -1,10 +1,10 @@
-# DAG-blockchain-attack-simulation
+# Tangle-based-Blockchain-attack-simulation
 
 ## Introduction
 
-This is a simultor of DAG-blockchain. We use this simultor to test the specific response of the blockchain network when it is facing some kinds of attack or special issue.
+This is a simulator of Tangle-based blockchain. 
+We construct three types of attacks and corresponding evaluations including parasite attack (PS), double spending attack (DS) and hybrid attack (HB) to test the security of tangle-based blockchains. 
 
-The working mode of the network is based on Tangle(IoTA) but removed the monitor. 
 
 ## Run the project
 
